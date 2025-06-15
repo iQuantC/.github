@@ -35,7 +35,7 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 ### 🧰 Featured Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,linux,bash,vim,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,aws,gcp,azure,python,pytorch,tensorflow,ai,fastapi,nodejs,java,springboot,maven,prometheus,grafana,elasticsearch,redis," />
+  <img src="https://skillicons.dev/icons?i=github,git,linux,bash,vim,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,aws,gcp,azure,python,pytorch,tensorflow,sklearn,ai,fastapi,nodejs,npm,java,spring,maven,prometheus,grafana,elasticsearch,redis," />
 </p>
 
 ---
