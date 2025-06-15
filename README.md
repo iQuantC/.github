@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iQuant/iQuant/main/assets/iquant-banner.png" alt="iQuant Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/iQuant/iQuant/main/banner.png" alt="iQuant Banner" width="100%" />
 </p>
 
 <!-- Greeting -->
