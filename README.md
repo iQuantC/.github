@@ -28,7 +28,7 @@
 Explore real-world **end-to-end projects**, tool **reviews**, automation **tutorials**, and **insights** that bridge the gap between knowledge and production-grade implementations.
 
 📺 **Subscribe to our YouTube channel:**  
-[![iQuant YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-iQuant-Channel?style=social)](https://youtube.com/@iQuant)
+[![iQuant YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-iQuant-Channel?style=social)](https://youtube.com/@iquantconsult?si=Q1glnZHTF9pPmhAi)
 
 ---
 
