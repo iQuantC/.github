@@ -65,7 +65,8 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 ### 💖 Support & Contributions
 
 💡 Found our content useful?  
-☕ Buy me a coffee [@BuyMeACoffee](https://buymeacoffee.com/iquantconsult)
+☕ Buy me a coffee [@BuyMeACoffee](https://buymeacoffee.com/iquantconsult)   
+
 👉 Give a ⭐ to your favorite repo  
 📥 Clone and fork projects  
 🎥 Suggest video ideas or topics  
