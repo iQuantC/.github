@@ -78,7 +78,7 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iQuant/iQuantC/main/banner.png" alt="iQuant Footer" width="60%" height="10%" />
+  <img src="https://github.com/iQuantC/.github/blob/main/banner.png" alt="iQuant Footer" width="60%" height="10%" />
 </p>
 
 <p align="center">
