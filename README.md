@@ -79,10 +79,10 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 
 ### 📚 Open To
 
-👉 DevOps/MLOps/Cloud Consulting 
-👉 Guest Sessions & Webinars
-👉 YouTube/Project Collaborations
-👉 Tech Tool & Software Reviews
+👉 DevOps/MLOps/Cloud Consulting  
+👉 Guest Sessions & Webinars  
+👉 YouTube/Project Collaborations  
+👉 Tech Tool & Software Reviews  
 
 ---
 
