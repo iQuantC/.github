@@ -46,24 +46,13 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 
 ---
 
-### 📚 Playlists on YouTube
-
-| 📺 Playlist | 🔗 Link |
-|-------------|---------|
-| 🚀 DevOps Projects | [Watch Now](https://www.youtube.com/@iQuant/playlists?view=50&sort=dd&shelf_id=1) |
-| 🤖 MLOps & Model Deployment | [Watch Now](https://www.youtube.com/@iQuant/playlists?view=50&sort=dd&shelf_id=2) |
-| ☁️ Cloud Labs (AWS, GCP, Azure) | [Watch Now](https://www.youtube.com/@iQuant/playlists?view=50&sort=dd&shelf_id=3) |
-| 🧠 LLMs & AI with LangChain | [Watch Now](https://www.youtube.com/@iQuant/playlists?view=50&sort=dd&shelf_id=4) |
-
----
-
 ### 📫 Connect With Us
 
-- 🌐 **YouTube**: [@iQuant](https://youtube.com/@iQuant)
-- 🧠 **LinkedIn**: [iQuant Learning](https://linkedin.com/company/iquant-learning)
+- 🌐 **YouTube**: [@iQuant](https://youtube.com/@iquantconsult)
+<!--- 🧠 **LinkedIn**: [iQuant Learning](https://linkedin.com/company/iquant-learning)
 - 🧵 **Twitter/X**: [@iQuantTech](https://twitter.com/iQuantTech)
 - 📧 **Email**: contact@iquant.tech
-- 🌍 **Website** *(Coming Soon!)*: [iquant.tech](https://iquant.tech)
+- 🌍 **Website** *(Coming Soon!)*: [iquant.tech](https://iquant.tech) --->
 
 ---
 
@@ -76,6 +65,7 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 ### 💖 Support & Contributions
 
 💡 Found our content useful?  
+☕ Buy me a coffee (https://buymeacoffee.com/iquantconsult)
 👉 Give a ⭐ to your favorite repo  
 📥 Clone and fork projects  
 🎥 Suggest video ideas or topics  
