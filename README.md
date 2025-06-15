@@ -74,6 +74,16 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 
 > _"Knowledge is most powerful when shared." – iQuant_
 
+
+---
+
+### 📚 Open To
+
+👉 DevOps/MLOps/Cloud Consulting 
+👉 Guest Sessions & Webinars
+👉 YouTube/Project Collaborations
+👉 Tech Tool & Software Reviews
+
 ---
 
 <!-- Footer -->
