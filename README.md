@@ -42,15 +42,7 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 
 ### 🔥 Highlight Projects
 
-| 🚀 Project | 💬 Description | 🔗 Links |
-|-----------|----------------|---------|
-| **🎬 DevOps CI/CD Pipeline** | Jenkins + GitHub + Docker + Kubernetes + SonarQube + Trivy + Slack notifications | [Repo](https://github.com/iQuant/devops-ci-cd) |
-| **🤖 AI Translation App** | FastAPI + NLLB-200 + React + Tailwind + Streamlit UI + Fine-tuning | [Repo](https://github.com/iQuant/ai-translation-app) |
-| **☁️ Cloud Serverless ML Pipeline** | AWS Lambda + Kinesis + S3 + SageMaker + Terraform | [Repo](https://github.com/iQuant/serverless-ml-pipeline) |
-| **🔐 Secrets Management** | HashiCorp Vault + PostgreSQL + MongoDB + Kubernetes Secrets | [Repo](https://github.com/iQuant/secrets-management-demo) |
-| **🛡️ K8s Penetration Testing** | Minikube + kube-hunter + CIS Benchmarks | [Repo](https://github.com/iQuant/k8s-security-kubehunter) |
-
-👉 View all our 🔧 [Repositories](https://github.com/iQuant?tab=repositories)
+👉 View all our 🔧 [Repositories](https://github.com/iQuantC?tab=repositories)
 
 ---
 
