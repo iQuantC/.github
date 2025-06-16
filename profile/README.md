@@ -48,7 +48,7 @@ Explore real-world **end-to-end projects**, tool **reviews**, automation **tutor
 
 ### 📫 Connect With Us
 
-- 🌐 **YouTube**: [@iQuant](https://youtube.com/@iquantconsult)
+- 🌐 **YouTube**: [@iQuant](https://www.youtube.com/channel/UCUWbRan1OXOa_GeKmW6Q-qQ?sub_confirmation=1)
 <!--- 🧠 **LinkedIn**: [iQuant Learning](https://linkedin.com/company/iquant-learning)
 - 🧵 **Twitter/X**: [@iQuantTech](https://twitter.com/iQuantTech)
 - 📧 **Email**: contact@iquant.tech
